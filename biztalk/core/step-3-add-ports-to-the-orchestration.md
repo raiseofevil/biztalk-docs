@@ -73,7 +73,7 @@ manager: "anneta"
   
 #### To create and configure SendDeclinePort  
   
-1.  From the orchestration Toolbox, drag the **Port** shape to the left-side **Port Surface**, parallel to the **SendRequestDecline** shape.  
+1.  From the orchestration Toolbox, drag the **Port** shape to the right-side **Port Surface**, parallel to the **SendRequestDecline** shape.  
   
 2.  Use the information in the following table to create the **SendDeclinePort** send port.  
   
